@@ -1,7 +1,6 @@
 module FoodCharts
 
-	import DataFrames
-	import CSV
+	import DataFrames, CSV
 
 	export greet_FoodCharts
 	export get_food
