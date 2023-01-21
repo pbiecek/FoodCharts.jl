@@ -1,6 +1,3 @@
-module FoodCharts
-
-export greet_FoodCharts
-include("functions.jl")
-
+function greet_FoodCharts()
+    println("Hello FoodCharts!")
 end
